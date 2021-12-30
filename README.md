@@ -2,7 +2,7 @@
 
 ### Simple Arduino-Brainf*ck - interpreter / visualizer
 
-32x128px OLED SCREEN shows current char (ASCII_value -> String) being printed
+128x32px OLED SCREEN shows current char (ASCII_value -> String) being printed
 
 Fancy 8+1 LED's show the current binary value of the current "serial.read(char);"
 blue led for "clock"-speed visualization
